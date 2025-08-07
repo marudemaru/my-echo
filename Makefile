@@ -1,6 +1,6 @@
 NAME := my-echo
 REPOSITORY := maruyama1014/$(NAME)
-TAG := 0911
+TAG := 1014
 GOOS := linux
 GOARCH := amd64
 
